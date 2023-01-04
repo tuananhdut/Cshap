@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hunfulaspPGvjUryGkZuSGNWbbJEK8bfAncW6Wa58dDZgTLPUlHFgfS8wUVOmCsunFEK6/XvEG0vMmIFfOJEEA==",
+  "dgSpecHash": "HOPnZhSqGv1Z/wlNN2BQc1yyAGuAxrsz9tQ3ml0+BjM1ZZkPbppX5S1u39RKEeKdfQxmlsTcnSEJejI8EUY6Qw==",
   "success": true,
-  "projectFilePath": "D:\\MyWord\\laptrinhDotnet\\dotnet\\helloworld\\helloworld.csproj",
+  "projectFilePath": "D:\\MyWord\\laptrinhDotnet\\Dotnet\\helloworld\\helloworld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
