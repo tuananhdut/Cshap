@@ -16,6 +16,7 @@ namespace helloworld{
             swap(ref a, ref b);
             Console.WriteLine("a={0}",a);
             Console.WriteLine("b={0}",b);
+            int c;
             Console.ReadKey();
         }
     }
